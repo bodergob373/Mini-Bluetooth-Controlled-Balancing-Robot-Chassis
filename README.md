@@ -9,6 +9,9 @@
 ## The Model
 
 
+## Wiring Diagram
+<img width="768" height="608" alt="Screenshot 2025-12-05 211010" src="https://github.com/user-attachments/assets/f1f324d8-4eab-466d-b8ce-2751e5e9cb0a" />
+
 ## BOM:
 Links here: https://docs.google.com/spreadsheets/d/15BZOgCAK9HfxFjphhOrtfexejHQh9IfhAeZVUUb6IY0/edit?usp=sharing
 
