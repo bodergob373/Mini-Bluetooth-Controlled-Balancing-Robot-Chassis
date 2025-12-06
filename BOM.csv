@@ -1,15 +1,15 @@
-Item,Purpose,Item Type,Order Amount,Cost
-jumpers,Wiring components,N/A,1,$5.99
-gy-bno055,Sensing orientation,N/A,1,$13.18
-lm2596,Powering the ESP32,1 PCS,1,$1.71
-nidec 24h055mo20,Driving the wheels,N/A,2,$17.54
-esp32 devboard,Controlling the robot,ESP32 Type-C 30Pin,1,$4.17
-15x28x7 mm bearing,Low-friction wheel hubs,"4, 6902-2RS 15mmx28mmx7mm",1,$6.99
-m2.5x10 screws,Securing the motors,"M2.5 50PCS, x10mm",1,$2.27
-m3x5 tapping screws,Mounting the LM2596,"M3 x 50Pieces, 5mm",1,$1.50
-m3x8 tapping screws,Mounting the drive modules and ESP32,"M3x8mm, 20pcs",1,$1.40
-silicone bands,High-friction tires,Any,1,$7.99
-3S LiPo,Powering the robot,1Pcs,1,$19.89
-10uF ceramic capacitor,Protect ESP32 from current spikes,N/A,1,$0
-220uF electrolyitc capacitor,Protect ESP32 from current spikes,N/A,1,$0
+Item,Link,Purpose,Item Type,Order Amount,Cost
+jumpers,eee,Wiring components,N/A,1,$5.99
+gy-bno055,eee,Sensing orientation,N/A,1,$13.18
+lm2596,eee,Powering the ESP32,1 PCS,1,$1.71
+nidec 24h055mo20,eee,Driving the wheels,N/A,2,$17.54
+esp32 devboard,eee,Controlling the robot,ESP32 Type-C 30Pin,1,$4.17
+15x28x7 mm bearing,eee,Low-friction wheel hubs,"4, 6902-2RS 15mmx28mmx7mm",1,$6.99
+m2.5x10 screws,eee,Securing the motors,"M2.5 50PCS, x10mm",1,$2.27
+m3x5 tapping screws,eee,Mounting the LM2596,"M3 x 50Pieces, 5mm",1,$1.50
+m3x8 tapping screws,https://www.aliexpress.us/item/3256803991037432.html?spm=a2g0o.productlist.main.14.5362mqr4mqr4BQ&algo_pvid=5e312e77-ecc1-4a43-ad5e-d0b18fbb5cb1&algo_exp_id=5e312e77-ecc1-4a43-ad5e-d0b18fbb5cb1-13&pdp_ext_f=%7B%22order%22%3A%221260%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.21%210.99%21%21%211.21%210.99%21%402101e2b417650055075443473e0d3a%2112000028291573734%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A3794bdf4%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461913&curPageLogUid=hqhLFTPmXAqs&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004177352184%7C_p_origin_prod%3A,Mounting the drive modules and ESP32,"M3x8mm, 20pcs",1,$1.40
+silicone bands,https://www.amazon.com/dp/B0FD9H75VJ/ref=twister_B0FDQFTKRY?_encoding=UTF8&th=1,High-friction tires,Any,1,$7.99
+3S LiPo,https://www.aliexpress.us/item/3256805630461444.html?spm=a2g0o.productlist.main.51.74955ff4VngrwI&algo_pvid=98d24f42-060f-4aa1-bc22-52cdbeccb34d&algo_exp_id=98d24f42-060f-4aa1-bc22-52cdbeccb34d-50&pdp_ext_f=%7B%22order%22%3A%2224%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis!USD!29.56!18.62!!!207.76!130.89!%402101c59117648169463272786e5844!12000034452576636!sea!US!6047585897!X!1!0!n_tag%3A-29919%3Bd%3A8bc04a30%3Bm03_new_user%3A-29895&curPageLogUid=oGTYwtSN3H53&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005816776196%7C_p_origin_prod%3A#nav-specification,Powering the robot,1Pcs,1,$19.89
+10uF ceramic capacitor,N/A,Protect ESP32 from current spikes,N/A,1,$0
+220uF electrolyitc capacitor,N/A,Protect ESP32 from current spikes,N/A,1,$0
 Total,,,,$82.63
