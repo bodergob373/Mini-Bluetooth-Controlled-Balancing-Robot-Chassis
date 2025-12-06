@@ -1,12 +1,16 @@
 # Mini Bluetooth-Controlled Balancing Robot Chassis
 
 ## Description
-
+A small chassis for a wheeled balancing robot. Its two Nidec 24H motors have built-in encoders and are powered by a thin 2200mAh LiPo. The GY-BNO055 IMU provides the ESP32 with orientation feedback for balancing. It can be controlled by Bluetooth commands.
 
 ## Why?
-
+I tried building a balancing robot in the past for a hardware hackathon. It used NEMA17 stepper motors. It sucked and probably wouldn't have ever worked. That's why I want to make one that uses BLDC motors and actually works.
 
 ## The Model
+<img width="566" height="542" alt="Screenshot 2025-12-06 142607" src="https://github.com/user-attachments/assets/81f08577-f7f2-4be9-b4ce-e30f0381fb1a" />
+<img width="356" height="507" alt="Screenshot 2025-12-06 142533" src="https://github.com/user-attachments/assets/1676a031-4bb8-49dd-8538-0b3a75167ee3" />
+<img width="392" height="599" alt="Screenshot 2025-12-06 142515" src="https://github.com/user-attachments/assets/0e064c2c-cafa-4cac-99fc-12340ae5f702" />
+<img width="524" height="563" alt="Screenshot 2025-12-06 142403" src="https://github.com/user-attachments/assets/3127ebd4-9c73-482e-b366-7524f42454d5" />
 
 
 ## Wiring Diagram
