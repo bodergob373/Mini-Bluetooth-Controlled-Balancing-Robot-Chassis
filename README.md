@@ -21,7 +21,7 @@ Links here: https://docs.google.com/spreadsheets/d/15BZOgCAK9HfxFjphhOrtfexejHQh
 
 | Item | Purpose | Item Type | Order Amount | Cost |
 |---|---|---|---|---|
-| jumpers | Wiring components | N/A | 1 | $5.99 |
+| jumpers | Wiring components | 3 kinds 10cm | 1 | $3.16 |
 | gy-bno055 | Sensing orientation | N/A | 1 | $13.18 |
 | lm2596 | Powering the ESP32 | 1 PCS | 1 | $1.71 |
 | nidec 24h055mo20 | Driving the wheels | N/A | 2 | $17.54 |
