@@ -26,7 +26,7 @@ Links here: https://docs.google.com/spreadsheets/d/15BZOgCAK9HfxFjphhOrtfexejHQh
 | lm2596 | Powering the ESP32 | 1 PCS | 1 | $1.71 |
 | nidec 24h055mo20 | Driving the wheels | N/A | 2 | $17.54 |
 | esp32 devboard | Controlling the robot | ESP32 Type-C 30Pin | 1 | $4.17 |
-| 15x28x7 mm bearing | Low-friction wheel hubs | 4, 6902-2RS 15mmx28mmx7mm | 1 | $6.99 |
+| 10x15x4 mm bearing | Low-friction wheel hubs | 10x15X4mm | 1 | $2.85 |
 | m2.5x10 screws | Securing the motors | M2.5 50PCS, x10mm | 1 | $2.27 |
 | m3x5 tapping screws | Mounting the LM2596 | M3 x 50Pieces, 5mm | 1 | $1.50 |
 | m3x8 tapping screws | Mounting the drive modules and ESP32 | M3x8mm, 20pcs | 1 | $1.40 |
