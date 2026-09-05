@@ -91,10 +91,3 @@ To prepare for printing, I added configurable tolerances for the parts so that p
 I made the wiring diagram. It went smoothly until I found out that there should be capacitors on the buck converter output to protect the ESP32 from current spikes. I also had to research what pins to use on the GY-BNO055 IMU.
 
 <img width="768" height="608" alt="image" src="https://github.com/user-attachments/assets/5446e40a-4b66-4b60-8fa2-7ef0008c38c9" />
-
-
-
-# 2025/12/5: Generated the Code: 0.5h
-I'm running out of time, so I got AI-generated code for the robot. I did have to research how the motors need to be controlled, though. It would probably take me days to research, code, and test the robot's control loop myself anyways. I have no idea if the code will work until I build the robot and test it.
-
-<img width="748" height="683" alt="image" src="https://github.com/user-attachments/assets/9943f25f-54c2-4e04-8e7c-e28bb24a8bac" />
